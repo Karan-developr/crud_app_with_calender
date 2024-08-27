@@ -36,3 +36,6 @@ The application includes a sidebar with two menu items:
 
 - The Calendar module allows users to add events and set reminders.
 - Events and reminders can be color-coded for easy distinction.
+
+### Demo
+- https://crud-app-with-calender.vercel.app/
